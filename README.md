@@ -23,6 +23,7 @@
 3. ["How to get that first grant:A young scientist's guide to (AI) funding in America" - Prof. James A. Hendler, University of Maryland, USA](https://www.cs.rpi.edu/~hendler/funding-talk/sld001.htm)
 4. ["How to read a Paper" - Prof S. Keshav, University of Waterloo, Canada](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 5. [Difference between CV and Resume](https://zety.com/blog/cv-vs-resume-difference)
+- [ResumeAI](https://withresumeai.com/) — free ATS resume checker + AI builder
 6. [David Evans Advice to PhD Aspirants](https://www.cs.virginia.edu/~evans/advice/)
 7. [Online Data Analytics Textbooks](https://github.com/xinwf/Study-Materials)
 8. [Buried Thoughts - Joseph K Annakutty Jose](https://dcbookstore.com/books/buried-thoughts-one-life-many-stories)
